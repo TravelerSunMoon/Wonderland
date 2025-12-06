@@ -1,0 +1,446 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": -9048100887357078078,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_EyeMakeupTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceDecalTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_FaceMapTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -4659471772469393611,
+          "Name": "Beyd_Avatar_Boy_Face_Tex_SDF",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -7958990004774925631,
+          "Name": "Beyd_Avatar_Boy_Face_Tex_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LipMakeupTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": -5609621242734996432,
+          "Name": "Beyd_Avatar_Boy_Face_P0053_01_Tex_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PVMask1": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PVMask2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharAvatarDie_DissolveNoise": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_IceBumpTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_TillingNormal": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_TriplanarTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharPetrified_PetrifiedDetailTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VSSKinningPoseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BumpScale": 1.0,
+      "_CharacterAmbientSensorColorOn": 0.0,
+      "_CharacterAmbientSensorForceShadowOn": 0.0,
+      "_CharacterAmbientSensorShadowOn": 0.0,
+      "_CharacterMainTex": 0.0,
+      "_CharacterShadow": 0.0,
+      "_Cutoff": 0.5,
+      "_DecalPatternCenterX": 0.0,
+      "_DecalPatternCenterY": 0.0,
+      "_DecalPatternRotation": 0.0,
+      "_DecalPatternScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_DummyHitColor": 0.0,
+      "_DummyMainSettings": 0.0,
+      "_DummyOutline": 0.0,
+      "_DummyUseDither": 0.0,
+      "_Dx11ShaderPsScore": 0.0,
+      "_Dx11ShaderScore": -1.0,
+      "_Dx11ShaderVsScore": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EnableAvatarDie": 0.0,
+      "_EnableAvatarDieDebug": 0.0,
+      "_EnableCharacterDissolve": 0.0,
+      "_EnableCharacterDissolveDebug": 0.0,
+      "_EnableCharacterFrozen": 0.0,
+      "_EnableCharacterFrozenDebug": 0.0,
+      "_EnableCharacterPetrified": 0.0,
+      "_EnableCharacterPetrifiedDebug": 0.0,
+      "_EnableShaderLerpDebug": 0.0,
+      "_EyeMakeupLinearBlend": 0.0,
+      "_FaceDecalLinearBlend": 0.0,
+      "_FaceDecalPatternCenterX": 0.0,
+      "_FaceDecalPatternCenterY": 0.0,
+      "_FaceDecalPatternRotation": 0.0,
+      "_FaceDecalPatternScaleX": 1.0,
+      "_FaceDecalPatternScaleY": 1.0,
+      "_FaceMapRotateOffset": 0.0,
+      "_FaceMapSoftness": 1E-06,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_HitColorFresnelPower": 1.5,
+      "_HitColorScaler": 6.0,
+      "_LipMakeupLinearBlend": 0.0,
+      "_MergedMeshEnable": 0.0,
+      "_MergedMeshTextureEnable": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_OutLineIntensity": 0.3,
+      "_OutLineZOffset": 0.0,
+      "_Parallax": 0.02,
+      "_SHADER_LERP_MATERIAL_ID": 0.0,
+      "_Scale": 0.01,
+      "_ShaderLerpCharAvatarDie_DissolveColorScaler": 1.0,
+      "_ShaderLerpCharAvatarDie_DissolveEdgeWidth": 1.1,
+      "_ShaderLerpCharAvatarDie_DissolveValue": 0.0,
+      "_ShaderLerpCharDissolve_Value": 0.02962045,
+      "_ShaderLerpCharFrozen_FrozenIntensity": 0.9,
+      "_ShaderLerpCharPetrified_PetrifiedIntensity": 0.9058824,
+      "_SkinTintColorOutlineLerp": 0.5,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_TextureBiasWhenDithering": -1.0,
+      "_UVSec": 0.0,
+      "_UseEyeMakeup": 0.0,
+      "_UseFaceDecal": 0.0,
+      "_UseFaceMapNew": 0.0,
+      "_UseLipMakeup": 0.0,
+      "_UseNoseHighlight": 1.0,
+      "_UsePVMask1": 0.0,
+      "_UsePVMask2": 0.0,
+      "_UseToonLightMap": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor": {
+        "r": 0.97647053,
+        "g": 0.7529412,
+        "b": 0.7058823,
+        "a": 1.0
+      },
+      "_CoolShadowMultColor2": {
+        "r": 0.8235294,
+        "g": 0.8235294,
+        "b": 0.8235294,
+        "a": 1.0
+      },
+      "_DecalAlphaRamp": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_DecalColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DecalColorRamp": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FaceDecalAlphaRamp": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FaceDecalColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FaceDecalColorRamp": {
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.97647053,
+        "g": 0.7529412,
+        "b": 0.7058823,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor2": {
+        "r": 0.8627451,
+        "g": 0.8627451,
+        "b": 0.8627451,
+        "a": 1.0
+      },
+      "_HitColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShaderLerpCharAvatarDie_DeathTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ShaderLerpCharAvatarDie_DissolveColor": {
+        "r": 0.43382347,
+        "g": 1.0,
+        "b": 0.9297161,
+        "a": 1.0
+      },
+      "_ShaderLerpCharDissolve_Color": {
+        "r": 0.5,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SkinTintColor": {
+        "r": 1.0,
+        "g": 0.9882353,
+        "b": 0.9568626,
+        "a": 1.0
+      },
+      "_SkinTintSecondColor": {
+        "r": 0.7215686,
+        "g": 0.635294,
+        "b": 0.635294,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Beyd_Avatar_Boy_Face_P0053_01_Mat",
+  "Name": "Beyd_Avatar_Boy_Face_P0053_01_Mat",
+  "Container": ""
+}
