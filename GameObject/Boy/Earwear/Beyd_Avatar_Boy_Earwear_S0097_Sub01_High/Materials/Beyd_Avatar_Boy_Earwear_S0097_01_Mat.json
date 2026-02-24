@@ -1,0 +1,628 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 8941823320807689685,
+    "Name": "",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightMapTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 4590575770874053743,
+          "Name": "Beyd_Avatar_Boy_Earwear_S0097_01_Tex_Lightmap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MTMap": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -867313356815120306,
+          "Name": "Avatar_Tex_MetalMap",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": -2987509407391776062,
+          "Name": "Beyd_Avatar_Boy_Earwear_S0097_01_Tex_Diffuse",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PVMask1": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_PVMask2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharAvatarDie_DissolveNoise": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_CubeMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_IceBumpTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_TillingNormal": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharFrozen_TriplanarTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ShaderLerpCharPetrified_PetrifiedDetailTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_VSSKinningPoseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "Emission_Type": 0.0,
+      "_Alpha": 1.0,
+      "_AmplitudeStrength": 1.0,
+      "_BakedShadowBias": 0.0,
+      "_BlackenAlbedo": 0.0,
+      "_BlendMaskASwitch": 0.0,
+      "_BlendValueFrom": 0.0,
+      "_BumpMapV2_SamplerType": 0.0,
+      "_BumpMap_SamplerType": 0.0,
+      "_BumpScale": 1.0,
+      "_CharacterAmbientSensorColorOn": 0.0,
+      "_CharacterAmbientSensorForceShadowOn": 0.0,
+      "_CharacterAmbientSensorShadowOn": 0.0,
+      "_CharacterEmission": 0.0,
+      "_CharacterMainTex": 0.0,
+      "_CharacterShadow": 0.0,
+      "_CubeMapIntensity": 1.0,
+      "_CullMode": 2.0,
+      "_CutOff": 0.5,
+      "_Cutoff": 0.5,
+      "_DetailMaskV2_SamplerType": 0.0,
+      "_DetailMask_SamplerType": 0.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DiffuseBlendIntensity": 1.0,
+      "_DiffuseBlendMethod": 0.0,
+      "_DiffuseTexV2_SamplerType": 0.0,
+      "_DiffuseTex_SamplerType": 0.0,
+      "_DisableWorldRand": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_DummyEmission": 0.0,
+      "_DummyHitColor": 0.0,
+      "_DummyMainSettings": 0.0,
+      "_DummyOutline": 0.0,
+      "_DummyUseDither": 0.0,
+      "_Dx11ShaderPsScore": 0.0,
+      "_Dx11ShaderScore": -1.0,
+      "_Dx11ShaderVsScore": 0.0,
+      "_ElementViewEleID": 0.0,
+      "_EmissionRange": 0.1,
+      "_EmissionStrength": 1.0,
+      "_EmissionStrengthLerp": 0.0,
+      "_EnableAlphaTest": 0.0,
+      "_EnableAvatarDie": 0.0,
+      "_EnableAvatarDieDebug": 0.0,
+      "_EnableCharacterDissolve": 0.0,
+      "_EnableCharacterDissolveDebug": 0.0,
+      "_EnableCharacterFrozen": 0.0,
+      "_EnableCharacterFrozenDebug": 0.0,
+      "_EnableCharacterPetrified": 0.0,
+      "_EnableCharacterPetrifiedDebug": 0.0,
+      "_EnableCubeReflection": 0.0,
+      "_EnableCustomParams": 0.0,
+      "_EnableDistanceLerp": 0.0,
+      "_EnableFixedTiling": 0.0,
+      "_EnableFloatWithShake": 0.0,
+      "_EnableHightBlend": 0.0,
+      "_EnableMPBOn": 0.0,
+      "_EnableMainBaseSimpleVer2": 0.0,
+      "_EnableMainTexture": 0.0,
+      "_EnableManualWindDir": 0.0,
+      "_EnableRimGlow": 0.0,
+      "_EnableShaderLerpDebug": 0.0,
+      "_EnableShake": 0.0,
+      "_EnableTexBlend": 0.0,
+      "_EnableTilingOn": 0.0,
+      "_EnableVertexAnimation": 0.0,
+      "_FoldX": 1.0,
+      "_FoldY": 1.0,
+      "_Frequency": 1.0,
+      "_GlossMapScale": 1.0,
+      "_Glossiness": 0.5,
+      "_GlossyReflections": 1.0,
+      "_HeightContrast": 0.0,
+      "_HeightOffset": 0.0,
+      "_HeightSpread": 1.0,
+      "_HitColorFresnelPower": 1.5,
+      "_HitColorScaler": 6.0,
+      "_InverseHeight": 0.0,
+      "_InvertBlend": 0.0,
+      "_LampRadius": 1.0,
+      "_MHYZBias": 0.0,
+      "_MPBShowBox": 0.0,
+      "_MTShininess": 43.3,
+      "_MTSpecularScale": 60.0,
+      "_MainTexUVSwitch": 0.0,
+      "_MaskBlendIntensity": 1.0,
+      "_MaskBlendMethod": 0.0,
+      "_MaterialShadowBias": 0.0,
+      "_MaxAmplitude": 10.0,
+      "_MergedMeshEnable": 0.0,
+      "_MergedMeshTextureEnable": 0.0,
+      "_MetalMaterial": 0.0,
+      "_Metallic": 0.0,
+      "_Mode": 0.0,
+      "_MulAlbedo": 0.0,
+      "_NoiseDirScale": 0.3,
+      "_NormalBlendIntensity": 1.0,
+      "_NormalBlendMethod": 0.0,
+      "_NormalUnpackMode": 0.0,
+      "_OcclusionStrength": 1.0,
+      "_OutLineIntensity": 1.0,
+      "_OutLineZOffset": 0.0,
+      "_OverrideMobileCubemapTintColor": 0.0,
+      "_Parallax": 0.02,
+      "_PerMatFloatCount": 0.0,
+      "_PerMatVector3Count": 0.0,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_RGPower": 0.1,
+      "_RGStrength": 1.0,
+      "_RainIntensity": 0.0,
+      "_SHADER_LERP_MATERIAL_ID": 0.0,
+      "_Scale": 0.01,
+      "_SceneNormalScale": 1.0,
+      "_SceneNormalScaleV2": 1.0,
+      "_ShaderLerpCharAvatarDie_DissolveColorScaler": 1.0,
+      "_ShaderLerpCharAvatarDie_DissolveEdgeWidth": 1.1,
+      "_ShaderLerpCharAvatarDie_DissolveValue": 0.0,
+      "_ShaderLerpCharDissolve_Value": 0.02962045,
+      "_ShaderLerpCharFrozen_FrozenIntensity": 0.9,
+      "_ShaderLerpCharPetrified_PetrifiedIntensity": 0.9058824,
+      "_ShakeAmplitudeStrength": 1.0,
+      "_ShakeFold": 0.0,
+      "_ShakeFrequency": 1.0,
+      "_ShakeMaxAmplitude": 10.0,
+      "_Shininess": 10.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecMulti": 0.1,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_TextureBiasWhenDithering": -1.0,
+      "_TiltControl": 0.0,
+      "_UVSec": 0.0,
+      "_UseDetailMaskColorA": 1.0,
+      "_UseDetailMaskColorAV2": 1.0,
+      "_UseOverrideShadowColor": 0.0,
+      "_UsePVMask1": 0.0,
+      "_UsePVMask2": 0.0,
+      "_UseSpecular": 0.0,
+      "_UseTintColor": 0.0,
+      "_UseToonLightMap": 0.0,
+      "_UsingDitherAlpha": 0.0,
+      "_VertexBlendColorSwitch": 0.0,
+      "_WindModelScale": 1.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Alpha_LerpParam": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Alpha_State": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Alpha_Value1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Alpha_Value2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color_LerpParam": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color_State": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color_Value1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color_Value2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CoolShadowMultColor": {
+        "r": 0.7411765,
+        "g": 0.7137255,
+        "b": 0.7921569,
+        "a": 1.0
+      },
+      "_CustomMobileCubemapTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_CutOff_LerpParam": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CutOff_State": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CutOff_Value1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CutOff_Value2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DiffuseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DiffuseColorV2": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DiffuseTexST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DiffuseTexV2ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_EmissionColor_MHY": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_FirstShadowMultColor": {
+        "r": 0.77254903,
+        "g": 0.74509805,
+        "b": 0.8235294,
+        "a": 1.0
+      },
+      "_HitColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_LampColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_LampLocalPos": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MTMapDarkColor": {
+        "r": 0.7803922,
+        "g": 0.76470596,
+        "b": 0.7490196,
+        "a": 0.0
+      },
+      "_MTMapLightColor": {
+        "r": 0.9490197,
+        "g": 0.9450981,
+        "b": 0.94117653,
+        "a": 1.0
+      },
+      "_MTMapSpecularColor": {
+        "r": 0.92549026,
+        "g": 0.8352942,
+        "b": 0.7372549,
+        "a": 1.0
+      },
+      "_MTShadowMultiColor": {
+        "r": 0.8745099,
+        "g": 0.8431373,
+        "b": 0.8431373,
+        "a": 0.8
+      },
+      "_ManualWindDir": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MoveVector": {
+        "r": 0.1,
+        "g": 0.02,
+        "b": 0.1,
+        "a": 0.0
+      },
+      "_OverrideCoolShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OverrideFirstShadowColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RGColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_RainIntensity_LerpParam": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RainIntensity_State": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RainIntensity_Value1": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RainIntensity_Value2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ShaderLerpCharAvatarDie_DeathTintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ShaderLerpCharAvatarDie_DissolveColor": {
+        "r": 0.43382347,
+        "g": 1.0,
+        "b": 0.9297161,
+        "a": 1.0
+      },
+      "_ShaderLerpCharDissolve_Color": {
+        "r": 0.5,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ShakeMoveVector": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.1,
+        "a": 0.0
+      },
+      "_ShakeParam": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "_TintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TintDarkColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Beyd_Avatar_Boy_Earwear_S0097_01_Mat",
+  "Name": "Beyd_Avatar_Boy_Earwear_S0097_01_Mat",
+  "Container": ""
+}
